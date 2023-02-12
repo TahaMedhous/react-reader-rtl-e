@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gerhardsletten/react-reader.git"
+    "url": "git+https://github.com/TahaMedhous/react-reader-rtl-e.git"
   },
   "author": "Gerhard Sletten, edited by T",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gerhardsletten/react-reader/issues"
+    "url": "https://github.com/TahaMedhous/react-reader-rtl-e.git/issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
