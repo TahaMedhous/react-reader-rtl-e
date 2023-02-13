@@ -3,17 +3,10 @@
   "version": "1.0.2",
   "description": "A epub-reader for React powered by ePubJS",
   "main": "lib/index.js",
-  "scripts": {
-    "compile": "NODE_ENV=production babel --out-dir lib src/modules",
-    "prepare": "npm run compile",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "format": "prettier --write \"src/**/*.js\"",
-    "test": "eslint src"
-  },
+  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gerhardsletten/react-reader.git"
+    "url": "git+https://github.com/TahaMedhous/react-reader-rtl-e.git"
   },
   "author": "Gerhard Sletten, edited by T",
   "license": "ISC",
